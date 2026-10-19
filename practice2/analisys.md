@@ -31,7 +31,7 @@ id - UUID4, title - str, 1–200 символов, status - todo / in_progress /
 
 
 # Контрактный документ
-[жмем сюда](practice2/design-week1.md)
+[жмем сюда](design-week1.md)
 
 
 # ABC vs Protocol
